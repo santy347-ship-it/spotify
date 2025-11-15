@@ -1,0 +1,9 @@
+{
+	"name": "DFSpotifymilan",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2d4ff3ba-046d-461e-a47f-093e636ff04e",
+		"tenantId": "57d748e6-3acf-4bac-94fa-38a7bfc0f36c"
+	}
+}
